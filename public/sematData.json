@@ -1,0 +1,1829 @@
+[
+  {
+    "alfa": "Way of Work",
+    "status": "Principios establecidos",
+    "status_order": 1,
+    "status_concat": "1- Principios establecidos",
+    "checklist": "El equipo apoya activamente los principios",
+    "checklist_order": 1,
+    "checklist_concat": "1- El equipo apoya activamente los principios"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Principios establecidos",
+    "status_order": 1,
+    "status_concat": "1- Principios establecidos",
+    "checklist": "Los interesados están de acuerdo con los principios",
+    "checklist_order": 2,
+    "checklist_concat": "2- Los interesados están de acuerdo con los principios"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Principios establecidos",
+    "status_order": 1,
+    "status_concat": "1- Principios establecidos",
+    "checklist": "Necesidades de herramientas acordadas",
+    "checklist_order": 3,
+    "checklist_concat": "3- Necesidades de herramientas acordadas"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Principios establecidos",
+    "status_order": 1,
+    "status_concat": "1- Principios establecidos",
+    "checklist": "Enfoque recomendado",
+    "checklist_order": 4,
+    "checklist_concat": "4- Enfoque recomendado"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Principios establecidos",
+    "status_order": 1,
+    "status_concat": "1- Principios establecidos",
+    "checklist": "Contexto operativo comprendido",
+    "checklist_order": 5,
+    "checklist_concat": "5- Contexto operativo comprendido"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Principios establecidos",
+    "status_order": 1,
+    "status_concat": "1- Principios establecidos",
+    "checklist": "Restricciones de prácticas y herramientas conocidas",
+    "checklist_order": 6,
+    "checklist_concat": "6- Restricciones de prácticas y herramientas conocidas"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Fundamentos establecidos",
+    "status_order": 2,
+    "status_concat": "2- Fundamentos establecidos",
+    "checklist": "Prácticas y herramientas clave seleccionadas",
+    "checklist_order": 1,
+    "checklist_concat": "1- Prácticas y herramientas clave seleccionadas"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Fundamentos establecidos",
+    "status_order": 2,
+    "status_concat": "2- Fundamentos establecidos",
+    "checklist": "Prácticas necesarias para iniciar el trabajo acordadas",
+    "checklist_order": 2,
+    "checklist_concat": "2- Prácticas necesarias para iniciar el trabajo acordadas"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Fundamentos establecidos",
+    "status_order": 2,
+    "status_concat": "2- Fundamentos establecidos",
+    "checklist": "Prácticas y herramientas no negociables identificadas",
+    "checklist_order": 3,
+    "checklist_concat": "3- Prácticas y herramientas no negociables identificadas"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Fundamentos establecidos",
+    "status_order": 2,
+    "status_concat": "2- Fundamentos establecidos",
+    "checklist": "Brechas entre forma de trabajar disponible y necesaria comprendidas",
+    "checklist_order": 4,
+    "checklist_concat": "4- Brechas entre forma de trabajar disponible y necesaria comprendidas"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Fundamentos establecidos",
+    "status_order": 2,
+    "status_concat": "2- Fundamentos establecidos",
+    "checklist": "Brechas de capacidad comprendidas",
+    "checklist_order": 5,
+    "checklist_concat": "5- Brechas de capacidad comprendidas"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Fundamentos establecidos",
+    "status_order": 2,
+    "status_concat": "2- Fundamentos establecidos",
+    "checklist": "Forma de trabajar integrada disponible",
+    "checklist_order": 6,
+    "checklist_concat": "6- Forma de trabajar integrada disponible"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "En Uso",
+    "status_order": 3,
+    "status_concat": "3- En Uso",
+    "checklist": "Prácticas y herramientas en uso",
+    "checklist_order": 1,
+    "checklist_concat": "1- Prácticas y herramientas en uso"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "En Uso",
+    "status_order": 3,
+    "status_concat": "3- En Uso",
+    "checklist": "Inspeccionadas regularmente",
+    "checklist_order": 2,
+    "checklist_concat": "2- Inspeccionadas regularmente"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "En Uso",
+    "status_order": 3,
+    "status_concat": "3- En Uso",
+    "checklist": "Adaptadas al contexto",
+    "checklist_order": 3,
+    "checklist_concat": "3- Adaptadas al contexto"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "En Uso",
+    "status_order": 3,
+    "status_concat": "3- En Uso",
+    "checklist": "Apoyadas por el equipo",
+    "checklist_order": 4,
+    "checklist_concat": "4- Apoyadas por el equipo"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "En Uso",
+    "status_order": 3,
+    "status_concat": "3- En Uso",
+    "checklist": "Mecanismos de retroalimentación implementados",
+    "checklist_order": 5,
+    "checklist_concat": "5- Mecanismos de retroalimentación implementados"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "En Uso",
+    "status_order": 3,
+    "status_concat": "3- En Uso",
+    "checklist": "Prácticas y herramientas apoyan la colaboración",
+    "checklist_order": 6,
+    "checklist_concat": "6- Prácticas y herramientas apoyan la colaboración"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Implementado",
+    "status_order": 4,
+    "status_concat": "4- Implementado",
+    "checklist": "Usadas por todo el equipo",
+    "checklist_order": 1,
+    "checklist_concat": "1- Usadas por todo el equipo"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Implementado",
+    "status_order": 4,
+    "status_concat": "4- Implementado",
+    "checklist": "Accesibles para todo el equipo",
+    "checklist_order": 2,
+    "checklist_concat": "2- Accesibles para todo el equipo"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Implementado",
+    "status_order": 4,
+    "status_concat": "4- Implementado",
+    "checklist": "Inspeccionadas y adaptadas por todo el equipo",
+    "checklist_order": 3,
+    "checklist_concat": "3- Inspeccionadas y adaptadas por todo el equipo"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Funcionando bien",
+    "status_order": 5,
+    "status_concat": "5- Funcionando bien",
+    "checklist": "Se logra un progreso predecible",
+    "checklist_order": 1,
+    "checklist_concat": "1- Se logra un progreso predecible"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Funcionando bien",
+    "status_order": 5,
+    "status_concat": "5- Funcionando bien",
+    "checklist": "Prácticas aplicadas de forma natural",
+    "checklist_order": 2,
+    "checklist_concat": "2- Prácticas aplicadas de forma natural"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Funcionando bien",
+    "status_order": 5,
+    "status_concat": "5- Funcionando bien",
+    "checklist": "Herramientas apoyan naturalmente la forma de trabajar",
+    "checklist_order": 3,
+    "checklist_concat": "3- Herramientas apoyan naturalmente la forma de trabajar"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Funcionando bien",
+    "status_order": 5,
+    "status_concat": "5- Funcionando bien",
+    "checklist": "Ajustadas continuamente",
+    "checklist_order": 4,
+    "checklist_concat": "4- Ajustadas continuamente"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Retirado",
+    "status_order": 6,
+    "status_concat": "6- Retirado",
+    "checklist": "Ya no está en uso",
+    "checklist_order": 1,
+    "checklist_concat": "1- Ya no está en uso"
+  },
+  {
+    "alfa": "Way of Work",
+    "status": "Retirado",
+    "status_order": 6,
+    "status_concat": "6- Retirado",
+    "checklist": "Lecciones aprendidas compartidas",
+    "checklist_order": 2,
+    "checklist_concat": "2- Lecciones aprendidas compartidas"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Sembrado",
+    "status_order": 1,
+    "status_concat": "1- Sembrado",
+    "checklist": "Misión definida",
+    "checklist_order": 1,
+    "checklist_concat": "1- Misión definida"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Sembrado",
+    "status_order": 1,
+    "status_concat": "1- Sembrado",
+    "checklist": "Restricciones conocidas y definidas",
+    "checklist_order": 2,
+    "checklist_concat": "2- Restricciones conocidas y definidas"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Sembrado",
+    "status_order": 1,
+    "status_concat": "1- Sembrado",
+    "checklist": "Mecanismos de crecimiento en marcha",
+    "checklist_order": 3,
+    "checklist_concat": "3- Mecanismos de crecimiento en marcha"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Sembrado",
+    "status_order": 1,
+    "status_concat": "1- Sembrado",
+    "checklist": "Composición definida",
+    "checklist_order": 4,
+    "checklist_concat": "4- Composición definida"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Sembrado",
+    "status_order": 1,
+    "status_concat": "1- Sembrado",
+    "checklist": "Responsabilidades delineadas",
+    "checklist_order": 5,
+    "checklist_concat": "5- Responsabilidades delineadas"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Sembrado",
+    "status_order": 1,
+    "status_concat": "1- Sembrado",
+    "checklist": "Nivel de compromiso claro",
+    "checklist_order": 6,
+    "checklist_concat": "6- Nivel de compromiso claro"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Sembrado",
+    "status_order": 1,
+    "status_concat": "1- Sembrado",
+    "checklist": "Competencias requeridas identificadas",
+    "checklist_order": 7,
+    "checklist_concat": "7- Competencias requeridas identificadas"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Sembrado",
+    "status_order": 1,
+    "status_concat": "1- Sembrado",
+    "checklist": "Tamaño determinado",
+    "checklist_order": 8,
+    "checklist_concat": "8- Tamaño determinado"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Sembrado",
+    "status_order": 1,
+    "status_concat": "1- Sembrado",
+    "checklist": "Reglas de gobernanza definidas",
+    "checklist_order": 9,
+    "checklist_concat": "9- Reglas de gobernanza definidas"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Sembrado",
+    "status_order": 1,
+    "status_concat": "1- Sembrado",
+    "checklist": "Modelo de liderazgo seleccionado",
+    "checklist_order": 10,
+    "checklist_concat": "10- Modelo de liderazgo seleccionado"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Formado",
+    "status_order": 2,
+    "status_concat": "2- Formado",
+    "checklist": "Suficientes miembros reclutados",
+    "checklist_order": 1,
+    "checklist_concat": "1- Suficientes miembros reclutados"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Formado",
+    "status_order": 2,
+    "status_concat": "2- Formado",
+    "checklist": "Roles comprendidos",
+    "checklist_order": 2,
+    "checklist_concat": "2- Roles comprendidos"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Formado",
+    "status_order": 2,
+    "status_concat": "2- Formado",
+    "checklist": "Cómo trabajar comprendido",
+    "checklist_order": 3,
+    "checklist_concat": "3- Cómo trabajar comprendido"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Formado",
+    "status_order": 2,
+    "status_concat": "2- Formado",
+    "checklist": "Miembros presentados",
+    "checklist_order": 4,
+    "checklist_concat": "4- Miembros presentados"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Formado",
+    "status_order": 2,
+    "status_concat": "2- Formado",
+    "checklist": "Responsabilidades individuales comprendidas y alineadas a competencias",
+    "checklist_order": 5,
+    "checklist_concat": "5- Responsabilidades individuales comprendidas y alineadas a competencias"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Formado",
+    "status_order": 2,
+    "status_concat": "2- Formado",
+    "checklist": "Miembros aceptan trabajo",
+    "checklist_order": 6,
+    "checklist_concat": "6- Miembros aceptan trabajo"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Formado",
+    "status_order": 2,
+    "status_concat": "2- Formado",
+    "checklist": "Colaboradores externos identificados",
+    "checklist_order": 7,
+    "checklist_concat": "7- Colaboradores externos identificados"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Formado",
+    "status_order": 2,
+    "status_concat": "2- Formado",
+    "checklist": "Mecanismos de comunicación definidos",
+    "checklist_order": 8,
+    "checklist_concat": "8- Mecanismos de comunicación definidos"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Formado",
+    "status_order": 2,
+    "status_concat": "2- Formado",
+    "checklist": "Miembros comprometidos con el equipo",
+    "checklist_order": 9,
+    "checklist_concat": "9- Miembros comprometidos con el equipo"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Colaborando",
+    "status_order": 3,
+    "status_concat": "3- Colaborando",
+    "checklist": "Trabaja como una unidad",
+    "checklist_order": 1,
+    "checklist_concat": "1- Trabaja como una unidad"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Colaborando",
+    "status_order": 3,
+    "status_concat": "3- Colaborando",
+    "checklist": "Comunicación abierta y honesta",
+    "checklist_order": 2,
+    "checklist_concat": "2- Comunicación abierta y honesta"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Colaborando",
+    "status_order": 3,
+    "status_concat": "3- Colaborando",
+    "checklist": "Enfocado en la misión",
+    "checklist_order": 3,
+    "checklist_concat": "3- Enfocado en la misión"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Colaborando",
+    "status_order": 3,
+    "status_concat": "3- Colaborando",
+    "checklist": "Los miembros se conocen",
+    "checklist_order": 4,
+    "checklist_concat": "4- Los miembros se conocen"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Desempeñando",
+    "status_order": 4,
+    "status_concat": "4- Desempeñando",
+    "checklist": "Cumple compromisos consistentemente",
+    "checklist_order": 1,
+    "checklist_concat": "1- Cumple compromisos consistentemente"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Desempeñando",
+    "status_order": 4,
+    "status_concat": "4- Desempeñando",
+    "checklist": "Se adapta continuamente al cambio",
+    "checklist_order": 2,
+    "checklist_concat": "2- Se adapta continuamente al cambio"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Desempeñando",
+    "status_order": 4,
+    "status_concat": "4- Desempeñando",
+    "checklist": "Resuelve problemas",
+    "checklist_order": 3,
+    "checklist_concat": "3- Resuelve problemas"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Desempeñando",
+    "status_order": 4,
+    "status_concat": "4- Desempeñando",
+    "checklist": "Minimiza retrabajo y retrocesos",
+    "checklist_order": 4,
+    "checklist_concat": "4- Minimiza retrabajo y retrocesos"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Desempeñando",
+    "status_order": 4,
+    "status_concat": "4- Desempeñando",
+    "checklist": "Elimina desperdicio continuamente",
+    "checklist_order": 5,
+    "checklist_concat": "5- Elimina desperdicio continuamente"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Disuelto",
+    "status_order": 5,
+    "status_concat": "5- Disuelto",
+    "checklist": "Responsabilidades cumplidas",
+    "checklist_order": 1,
+    "checklist_concat": "1- Responsabilidades cumplidas"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Disuelto",
+    "status_order": 5,
+    "status_concat": "5- Disuelto",
+    "checklist": "Miembros disponibles para otros equipos",
+    "checklist_order": 2,
+    "checklist_concat": "2- Miembros disponibles para otros equipos"
+  },
+  {
+    "alfa": "Equipo",
+    "status": "Disuelto",
+    "status_order": 5,
+    "status_concat": "5- Disuelto",
+    "checklist": "Misión concluida",
+    "checklist_order": 3,
+    "checklist_concat": "3- Misión concluida"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Iniciado",
+    "status_order": 1,
+    "status_concat": "1- Iniciado",
+    "checklist": "Resultado requerido claro",
+    "checklist_order": 1,
+    "checklist_concat": "1- Resultado requerido claro"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Iniciado",
+    "status_order": 1,
+    "status_concat": "1- Iniciado",
+    "checklist": "Restricciones claras",
+    "checklist_order": 2,
+    "checklist_concat": "2- Restricciones claras"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Iniciado",
+    "status_order": 1,
+    "status_concat": "1- Iniciado",
+    "checklist": "Stakeholders financieros conocidos",
+    "checklist_order": 3,
+    "checklist_concat": "3- Stakeholders financieros conocidos"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Iniciado",
+    "status_order": 1,
+    "status_concat": "1- Iniciado",
+    "checklist": "Iniciador identificado",
+    "checklist_order": 4,
+    "checklist_concat": "4- Iniciador identificado"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Iniciado",
+    "status_order": 1,
+    "status_concat": "1- Iniciado",
+    "checklist": "Stakeholders receptores conocidos",
+    "checklist_order": 5,
+    "checklist_concat": "5- Stakeholders receptores conocidos"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Iniciado",
+    "status_order": 1,
+    "status_concat": "1- Iniciado",
+    "checklist": "Fuente de financiamiento clara",
+    "checklist_order": 6,
+    "checklist_concat": "6- Fuente de financiamiento clara"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Iniciado",
+    "status_order": 1,
+    "status_concat": "1- Iniciado",
+    "checklist": "Prioridad clara",
+    "checklist_order": 7,
+    "checklist_concat": "7- Prioridad clara"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Preparado",
+    "status_order": 2,
+    "status_concat": "2- Preparado",
+    "checklist": "Compromiso realizado",
+    "checklist_order": 1,
+    "checklist_concat": "1- Compromiso realizado"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Preparado",
+    "status_order": 2,
+    "status_concat": "2- Preparado",
+    "checklist": "Costo y esfuerzo estimados",
+    "checklist_order": 2,
+    "checklist_concat": "2- Costo y esfuerzo estimados"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Preparado",
+    "status_order": 2,
+    "status_concat": "2- Preparado",
+    "checklist": "Disponibilidad de recursos comprendida",
+    "checklist_order": 3,
+    "checklist_concat": "3- Disponibilidad de recursos comprendida"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Preparado",
+    "status_order": 2,
+    "status_concat": "2- Preparado",
+    "checklist": "Riesgo comprendido",
+    "checklist_order": 4,
+    "checklist_concat": "4- Riesgo comprendido"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Preparado",
+    "status_order": 2,
+    "status_concat": "2- Preparado",
+    "checklist": "Criterios de aceptación establecidos",
+    "checklist_order": 5,
+    "checklist_concat": "5- Criterios de aceptación establecidos"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Preparado",
+    "status_order": 2,
+    "status_concat": "2- Preparado",
+    "checklist": "Trabajo desglosado para iniciar",
+    "checklist_order": 6,
+    "checklist_concat": "6- Trabajo desglosado para iniciar"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Preparado",
+    "status_order": 2,
+    "status_concat": "2- Preparado",
+    "checklist": "Tareas identificadas y priorizadas",
+    "checklist_order": 7,
+    "checklist_concat": "7- Tareas identificadas y priorizadas"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Preparado",
+    "status_order": 2,
+    "status_concat": "2- Preparado",
+    "checklist": "Plan creíble establecido",
+    "checklist_order": 8,
+    "checklist_concat": "8- Plan creíble establecido"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Preparado",
+    "status_order": 2,
+    "status_concat": "2- Preparado",
+    "checklist": "Financiamiento en marcha",
+    "checklist_order": 9,
+    "checklist_concat": "9- Financiamiento en marcha"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Preparado",
+    "status_order": 2,
+    "status_concat": "2- Preparado",
+    "checklist": "Al menos un miembro listo",
+    "checklist_order": 10,
+    "checklist_concat": "10- Al menos un miembro listo"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Preparado",
+    "status_order": 2,
+    "status_concat": "2- Preparado",
+    "checklist": "Puntos de integración definidos",
+    "checklist_order": 11,
+    "checklist_concat": "11- Puntos de integración definidos"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Iniciado el desarrollo",
+    "status_order": 3,
+    "status_concat": "3- Iniciado el desarrollo",
+    "checklist": "Desarrollo iniciado",
+    "checklist_order": 1,
+    "checklist_concat": "1- Desarrollo iniciado"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Iniciado el desarrollo",
+    "status_order": 3,
+    "status_concat": "3- Iniciado el desarrollo",
+    "checklist": "Progreso monitoreado",
+    "checklist_order": 2,
+    "checklist_concat": "2- Progreso monitoreado"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Iniciado el desarrollo",
+    "status_order": 3,
+    "status_concat": "3- Iniciado el desarrollo",
+    "checklist": "Definición de \"hecho\" establecida",
+    "checklist_order": 3,
+    "checklist_concat": "3- Definición de \"hecho\" establecida"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Iniciado el desarrollo",
+    "status_order": 3,
+    "status_concat": "3- Iniciado el desarrollo",
+    "checklist": "Tareas en progreso",
+    "checklist_order": 4,
+    "checklist_concat": "4- Tareas en progreso"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Bajo control",
+    "status_order": 4,
+    "status_concat": "4- Bajo control",
+    "checklist": "Tareas completadas",
+    "checklist_order": 1,
+    "checklist_concat": "1- Tareas completadas"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Bajo control",
+    "status_order": 4,
+    "status_concat": "4- Bajo control",
+    "checklist": "Trabajo no planificado bajo control",
+    "checklist_order": 2,
+    "checklist_concat": "2- Trabajo no planificado bajo control"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Bajo control",
+    "status_order": 4,
+    "status_concat": "4- Bajo control",
+    "checklist": "Riesgos bajo control",
+    "checklist_order": 3,
+    "checklist_concat": "3- Riesgos bajo control"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Bajo control",
+    "status_order": 4,
+    "status_concat": "4- Bajo control",
+    "checklist": "Estimaciones revisadas",
+    "checklist_order": 4,
+    "checklist_concat": "4- Estimaciones revisadas"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Bajo control",
+    "status_order": 4,
+    "status_concat": "4- Bajo control",
+    "checklist": "Progreso medido",
+    "checklist_order": 5,
+    "checklist_concat": "5- Progreso medido"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Bajo control",
+    "status_order": 4,
+    "status_concat": "4- Bajo control",
+    "checklist": "Retrabajo bajo control",
+    "checklist_order": 6,
+    "checklist_concat": "6- Retrabajo bajo control"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Bajo control",
+    "status_order": 4,
+    "status_concat": "4- Bajo control",
+    "checklist": "Compromisos cumplidos",
+    "checklist_order": 7,
+    "checklist_concat": "7- Compromisos cumplidos"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Concluido",
+    "status_order": 5,
+    "status_concat": "5- Concluido",
+    "checklist": "Solo tareas administrativas pendientes",
+    "checklist_order": 1,
+    "checklist_concat": "1- Solo tareas administrativas pendientes"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Concluido",
+    "status_order": 5,
+    "status_concat": "5- Concluido",
+    "checklist": "Resultados logrados",
+    "checklist_order": 2,
+    "checklist_concat": "2- Resultados logrados"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Concluido",
+    "status_order": 5,
+    "status_concat": "5- Concluido",
+    "checklist": "Resultado aceptado",
+    "checklist_order": 3,
+    "checklist_concat": "3- Resultado aceptado"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Cerrado",
+    "status_order": 6,
+    "status_concat": "6- Cerrado",
+    "checklist": "Lecciones aprendidas",
+    "checklist_order": 1,
+    "checklist_concat": "1- Lecciones aprendidas"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Cerrado",
+    "status_order": 6,
+    "status_concat": "6- Cerrado",
+    "checklist": "Métricas disponibles",
+    "checklist_order": 2,
+    "checklist_concat": "2- Métricas disponibles"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Cerrado",
+    "status_order": 6,
+    "status_concat": "6- Cerrado",
+    "checklist": "Todo archivado",
+    "checklist_order": 3,
+    "checklist_concat": "3- Todo archivado"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Cerrado",
+    "status_order": 6,
+    "status_concat": "6- Cerrado",
+    "checklist": "Presupuesto cerrado",
+    "checklist_order": 4,
+    "checklist_concat": "4- Presupuesto cerrado"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Cerrado",
+    "status_order": 6,
+    "status_concat": "6- Cerrado",
+    "checklist": "Equipo liberado",
+    "checklist_order": 5,
+    "checklist_concat": "5- Equipo liberado"
+  },
+  {
+    "alfa": "Trabajo",
+    "status": "Cerrado",
+    "status_order": 6,
+    "status_concat": "6- Cerrado",
+    "checklist": "Sin tareas pendientes",
+    "checklist_order": 6,
+    "checklist_concat": "6- Sin tareas pendientes"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Concebido",
+    "status_order": 1,
+    "status_concat": "1- Concebido",
+    "checklist": "Stakeholders acuerdan producir sistema",
+    "checklist_order": 1,
+    "checklist_concat": "1- Stakeholders acuerdan producir sistema"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Concebido",
+    "status_order": 1,
+    "status_concat": "1- Concebido",
+    "checklist": "Usuarios identificados",
+    "checklist_order": 2,
+    "checklist_concat": "2- Usuarios identificados"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Concebido",
+    "status_order": 1,
+    "status_concat": "1- Concebido",
+    "checklist": "Stakeholders financiadores identificados",
+    "checklist_order": 3,
+    "checklist_concat": "3- Stakeholders financiadores identificados"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Concebido",
+    "status_order": 1,
+    "status_concat": "1- Concebido",
+    "checklist": "Oportunidad clara",
+    "checklist_order": 4,
+    "checklist_concat": "4- Oportunidad clara"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Delimitado",
+    "status_order": 2,
+    "status_concat": "2- Delimitado",
+    "checklist": "Stakeholders de desarrollo identificados",
+    "checklist_order": 1,
+    "checklist_concat": "1- Stakeholders de desarrollo identificados"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Delimitado",
+    "status_order": 2,
+    "status_concat": "2- Delimitado",
+    "checklist": "Propósito del sistema acordado",
+    "checklist_order": 2,
+    "checklist_concat": "2- Propósito del sistema acordado"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Delimitado",
+    "status_order": 2,
+    "status_concat": "2- Delimitado",
+    "checklist": "Éxito del sistema claro",
+    "checklist_order": 3,
+    "checklist_concat": "3- Éxito del sistema claro"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Delimitado",
+    "status_order": 2,
+    "status_concat": "2- Delimitado",
+    "checklist": "Entendimiento compartido de la solución",
+    "checklist_order": 4,
+    "checklist_concat": "4- Entendimiento compartido de la solución"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Delimitado",
+    "status_order": 2,
+    "status_concat": "2- Delimitado",
+    "checklist": "Formato de requerimientos acordado",
+    "checklist_order": 5,
+    "checklist_concat": "5- Formato de requerimientos acordado"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Delimitado",
+    "status_order": 2,
+    "status_concat": "2- Delimitado",
+    "checklist": "Gestión de requerimientos en marcha",
+    "checklist_order": 6,
+    "checklist_concat": "6- Gestión de requerimientos en marcha"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Delimitado",
+    "status_order": 2,
+    "status_concat": "2- Delimitado",
+    "checklist": "Esquema de priorización claro",
+    "checklist_order": 7,
+    "checklist_concat": "7- Esquema de priorización claro"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Delimitado",
+    "status_order": 2,
+    "status_concat": "2- Delimitado",
+    "checklist": "Restricciones identificadas y consideradas",
+    "checklist_order": 8,
+    "checklist_concat": "8- Restricciones identificadas y consideradas"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Delimitado",
+    "status_order": 2,
+    "status_concat": "2- Delimitado",
+    "checklist": "Suposiciones claras",
+    "checklist_order": 9,
+    "checklist_concat": "9- Suposiciones claras"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Coherente",
+    "status_order": 3,
+    "status_concat": "3- Coherente",
+    "checklist": "Requerimientos compartidos",
+    "checklist_order": 1,
+    "checklist_concat": "1- Requerimientos compartidos"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Coherente",
+    "status_order": 3,
+    "status_concat": "3- Coherente",
+    "checklist": "Origen de requerimientos claro",
+    "checklist_order": 2,
+    "checklist_concat": "2- Origen de requerimientos claro"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Coherente",
+    "status_order": 3,
+    "status_concat": "3- Coherente",
+    "checklist": "Justificación clara",
+    "checklist_order": 3,
+    "checklist_concat": "3- Justificación clara"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Coherente",
+    "status_order": 3,
+    "status_concat": "3- Coherente",
+    "checklist": "Conflictos resueltos",
+    "checklist_order": 4,
+    "checklist_concat": "4- Conflictos resueltos"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Coherente",
+    "status_order": 3,
+    "status_concat": "3- Coherente",
+    "checklist": "Características esenciales claras",
+    "checklist_order": 5,
+    "checklist_concat": "5- Características esenciales claras"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Coherente",
+    "status_order": 3,
+    "status_concat": "3- Coherente",
+    "checklist": "Escenarios clave de uso explicados",
+    "checklist_order": 6,
+    "checklist_concat": "6- Escenarios clave de uso explicados"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Coherente",
+    "status_order": 3,
+    "status_concat": "3- Coherente",
+    "checklist": "Prioridades claras",
+    "checklist_order": 7,
+    "checklist_concat": "7- Prioridades claras"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Coherente",
+    "status_order": 3,
+    "status_concat": "3- Coherente",
+    "checklist": "Impacto comprendido",
+    "checklist_order": 8,
+    "checklist_concat": "8- Impacto comprendido"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Coherente",
+    "status_order": 3,
+    "status_concat": "3- Coherente",
+    "checklist": "Equipo entiende y acuerda qué entregar",
+    "checklist_order": 9,
+    "checklist_concat": "9- Equipo entiende y acuerda qué entregar"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Aceptable",
+    "status_order": 4,
+    "status_concat": "4- Aceptable",
+    "checklist": "Solución aceptable descrita",
+    "checklist_order": 1,
+    "checklist_concat": "1- Solución aceptable descrita"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Aceptable",
+    "status_order": 4,
+    "status_concat": "4- Aceptable",
+    "checklist": "Cambio bajo control",
+    "checklist_order": 2,
+    "checklist_concat": "2- Cambio bajo control"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Aceptable",
+    "status_order": 4,
+    "status_concat": "4- Aceptable",
+    "checklist": "Valor a lograr claro",
+    "checklist_order": 3,
+    "checklist_concat": "3- Valor a lograr claro"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Aceptable",
+    "status_order": 4,
+    "status_concat": "4- Aceptable",
+    "checklist": "Oportunidad abordada claramente",
+    "checklist_order": 4,
+    "checklist_concat": "4- Oportunidad abordada claramente"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Aceptable",
+    "status_order": 4,
+    "status_concat": "4- Aceptable",
+    "checklist": "Comprobable",
+    "checklist_order": 5,
+    "checklist_concat": "5- Comprobable"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Atendido",
+    "status_order": 5,
+    "status_concat": "5- Atendido",
+    "checklist": "Suficiente para ser aceptable",
+    "checklist_order": 1,
+    "checklist_concat": "1- Suficiente para ser aceptable"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Atendido",
+    "status_order": 5,
+    "status_concat": "5- Atendido",
+    "checklist": "Requerimientos y sistema coinciden",
+    "checklist_order": 2,
+    "checklist_concat": "2- Requerimientos y sistema coinciden"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Atendido",
+    "status_order": 5,
+    "status_concat": "5- Atendido",
+    "checklist": "Valor realizado claro",
+    "checklist_order": 3,
+    "checklist_concat": "3- Valor realizado claro"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Atendido",
+    "status_order": 5,
+    "status_concat": "5- Atendido",
+    "checklist": "Sistema vale la pena operarlo",
+    "checklist_order": 4,
+    "checklist_concat": "4- Sistema vale la pena operarlo"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Cumplido",
+    "status_order": 6,
+    "status_concat": "6- Cumplido",
+    "checklist": "Stakeholders aceptan requerimientos",
+    "checklist_order": 1,
+    "checklist_concat": "1- Stakeholders aceptan requerimientos"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Cumplido",
+    "status_order": 6,
+    "status_concat": "6- Cumplido",
+    "checklist": "Sin elementos que impidan",
+    "checklist_order": 2,
+    "checklist_concat": "2- Sin elementos que impidan"
+  },
+  {
+    "alfa": "Requerimientos",
+    "status": "Cumplido",
+    "status_order": 6,
+    "status_concat": "6- Cumplido",
+    "checklist": "Requerimientos completamente satisfechos",
+    "checklist_order": 3,
+    "checklist_concat": "3- Requerimientos completamente satisfechos"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Arquitectura seleccionada",
+    "status_order": 1,
+    "status_concat": "1- Arquitectura seleccionada",
+    "checklist": "Criterios de selección de arquitectura acordados",
+    "checklist_order": 1,
+    "checklist_concat": "1- Criterios de selección de arquitectura acordados"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Arquitectura seleccionada",
+    "status_order": 1,
+    "status_concat": "1- Arquitectura seleccionada",
+    "checklist": "Plataformas HW identificadas",
+    "checklist_order": 2,
+    "checklist_concat": "2- Plataformas HW identificadas"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Arquitectura seleccionada",
+    "status_order": 1,
+    "status_concat": "1- Arquitectura seleccionada",
+    "checklist": "Tecnologías seleccionadas",
+    "checklist_order": 3,
+    "checklist_concat": "3- Tecnologías seleccionadas"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Arquitectura seleccionada",
+    "status_order": 1,
+    "status_concat": "1- Arquitectura seleccionada",
+    "checklist": "Límite del sistema definido",
+    "checklist_order": 4,
+    "checklist_concat": "4- Límite del sistema definido"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Arquitectura seleccionada",
+    "status_order": 1,
+    "status_concat": "1- Arquitectura seleccionada",
+    "checklist": "Decisiones de organización del sistema tomadas",
+    "checklist_order": 5,
+    "checklist_concat": "5- Decisiones de organización del sistema tomadas"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Arquitectura seleccionada",
+    "status_order": 1,
+    "status_concat": "1- Arquitectura seleccionada",
+    "checklist": "Decisiones de compra, construcción o reutilización tomadas",
+    "checklist_order": 6,
+    "checklist_concat": "6- Decisiones de compra, construcción o reutilización tomadas"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Arquitectura seleccionada",
+    "status_order": 1,
+    "status_concat": "1- Arquitectura seleccionada",
+    "checklist": "Riesgos técnicos clave acordados",
+    "checklist_order": 7,
+    "checklist_concat": "7- Riesgos técnicos clave acordados"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Demostrable",
+    "status_order": 2,
+    "status_concat": "2- Demostrable",
+    "checklist": "Características arquitectónicas clave demostradas",
+    "checklist_order": 1,
+    "checklist_concat": "1- Características arquitectónicas clave demostradas"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Demostrable",
+    "status_order": 2,
+    "status_concat": "2- Demostrable",
+    "checklist": "Sistema probado y rendimiento medido",
+    "checklist_order": 2,
+    "checklist_concat": "2- Sistema probado y rendimiento medido"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Demostrable",
+    "status_order": 2,
+    "status_concat": "2- Demostrable",
+    "checklist": "Configuraciones críticas de HW demostradas",
+    "checklist_order": 3,
+    "checklist_concat": "3- Configuraciones críticas de HW demostradas"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Demostrable",
+    "status_order": 2,
+    "status_concat": "2- Demostrable",
+    "checklist": "Interfaces críticas demostradas",
+    "checklist_order": 4,
+    "checklist_concat": "4- Interfaces críticas demostradas"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Demostrable",
+    "status_order": 2,
+    "status_concat": "2- Demostrable",
+    "checklist": "Integración con entorno demostrada",
+    "checklist_order": 5,
+    "checklist_concat": "5- Integración con entorno demostrada"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Demostrable",
+    "status_order": 2,
+    "status_concat": "2- Demostrable",
+    "checklist": "Arquitectura aceptada como adecuada",
+    "checklist_order": 6,
+    "checklist_concat": "6- Arquitectura aceptada como adecuada"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Usable",
+    "status_order": 3,
+    "status_concat": "3- Usable",
+    "checklist": "Sistema puede ser operado",
+    "checklist_order": 1,
+    "checklist_concat": "1- Sistema puede ser operado"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Usable",
+    "status_order": 3,
+    "status_concat": "3- Usable",
+    "checklist": "Funcionalidad probada",
+    "checklist_order": 2,
+    "checklist_concat": "2- Funcionalidad probada"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Usable",
+    "status_order": 3,
+    "status_concat": "3- Usable",
+    "checklist": "Rendimiento aceptable",
+    "checklist_order": 3,
+    "checklist_concat": "3- Rendimiento aceptable"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Usable",
+    "status_order": 3,
+    "status_concat": "3- Usable",
+    "checklist": "Nivel de defectos aceptable",
+    "checklist_order": 4,
+    "checklist_concat": "4- Nivel de defectos aceptable"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Usable",
+    "status_order": 3,
+    "status_concat": "3- Usable",
+    "checklist": "Sistema completamente documentado",
+    "checklist_order": 5,
+    "checklist_concat": "5- Sistema completamente documentado"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Usable",
+    "status_order": 3,
+    "status_concat": "3- Usable",
+    "checklist": "Contenido de la versión conocido",
+    "checklist_order": 6,
+    "checklist_concat": "6- Contenido de la versión conocido"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Usable",
+    "status_order": 3,
+    "status_concat": "3- Usable",
+    "checklist": "Valor añadido claro",
+    "checklist_order": 7,
+    "checklist_concat": "7- Valor añadido claro"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Listo",
+    "status_order": 4,
+    "status_concat": "4- Listo",
+    "checklist": "Documentación de usuario disponible",
+    "checklist_order": 1,
+    "checklist_concat": "1- Documentación de usuario disponible"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Listo",
+    "status_order": 4,
+    "status_concat": "4- Listo",
+    "checklist": "Sistema aceptado como adecuado",
+    "checklist_order": 2,
+    "checklist_concat": "2- Sistema aceptado como adecuado"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Listo",
+    "status_order": 4,
+    "status_concat": "4- Listo",
+    "checklist": "Stakeholders quieren el sistema",
+    "checklist_order": 3,
+    "checklist_concat": "3- Stakeholders quieren el sistema"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Listo",
+    "status_order": 4,
+    "status_concat": "4- Listo",
+    "checklist": "Soporte operacional implementado",
+    "checklist_order": 4,
+    "checklist_concat": "4- Soporte operacional implementado"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Operativo",
+    "status_order": 5,
+    "status_concat": "5- Operativo",
+    "checklist": "Sistema disponible para uso",
+    "checklist_order": 1,
+    "checklist_concat": "1- Sistema disponible para uso"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Operativo",
+    "status_order": 5,
+    "status_concat": "5- Operativo",
+    "checklist": "Sistema en vivo",
+    "checklist_order": 2,
+    "checklist_concat": "2- Sistema en vivo"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Operativo",
+    "status_order": 5,
+    "status_concat": "5- Operativo",
+    "checklist": "SLA soportados",
+    "checklist_order": 3,
+    "checklist_concat": "3- SLA soportados"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Retirado",
+    "status_order": 6,
+    "status_concat": "6- Retirado",
+    "checklist": "Reemplazado o discontinuado",
+    "checklist_order": 1,
+    "checklist_concat": "1- Reemplazado o discontinuado"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Retirado",
+    "status_order": 6,
+    "status_concat": "6- Retirado",
+    "checklist": "No soportado",
+    "checklist_order": 2,
+    "checklist_concat": "2- No soportado"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Retirado",
+    "status_order": 6,
+    "status_concat": "6- Retirado",
+    "checklist": "Sin usuarios autorizados",
+    "checklist_order": 3,
+    "checklist_concat": "3- Sin usuarios autorizados"
+  },
+  {
+    "alfa": "Producto de Software",
+    "status": "Retirado",
+    "status_order": 6,
+    "status_concat": "6- Retirado",
+    "checklist": "Actualizaciones detenidas",
+    "checklist_order": 4,
+    "checklist_concat": "4- Actualizaciones detenidas"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Identificada",
+    "status_order": 1,
+    "status_concat": "1- Identificada",
+    "checklist": "Idea de la oportunidad identificada",
+    "checklist_order": 1,
+    "checklist_concat": "1- Idea de la oportunidad identificada"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Identificada",
+    "status_order": 1,
+    "status_concat": "1- Identificada",
+    "checklist": "Al menos un stakeholder inversor interesado",
+    "checklist_order": 2,
+    "checklist_concat": "2- Al menos un stakeholder inversor interesado"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Identificada",
+    "status_order": 1,
+    "status_concat": "1- Identificada",
+    "checklist": "Otros stakeholders identificados",
+    "checklist_order": 3,
+    "checklist_concat": "3- Otros stakeholders identificados"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Necesidad de solución",
+    "status_order": 2,
+    "status_concat": "2- Necesidad de solución",
+    "checklist": "Solución identificada",
+    "checklist_order": 1,
+    "checklist_concat": "1- Solución identificada"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Necesidad de solución",
+    "status_order": 2,
+    "status_concat": "2- Necesidad de solución",
+    "checklist": "Necesidades de stakeholders establecidas",
+    "checklist_order": 2,
+    "checklist_concat": "2- Necesidades de stakeholders establecidas"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Necesidad de solución",
+    "status_order": 2,
+    "status_concat": "2- Necesidad de solución",
+    "checklist": "Problemas y causas raíz identificadas",
+    "checklist_order": 3,
+    "checklist_concat": "3- Problemas y causas raíz identificadas"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Necesidad de solución",
+    "status_order": 2,
+    "status_concat": "2- Necesidad de solución",
+    "checklist": "Necesidad de una solución confirmada",
+    "checklist_order": 4,
+    "checklist_concat": "4- Necesidad de una solución confirmada"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Necesidad de solución",
+    "status_order": 2,
+    "status_concat": "2- Necesidad de solución",
+    "checklist": "Al menos una solución propuesta",
+    "checklist_order": 5,
+    "checklist_concat": "5- Al menos una solución propuesta"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Valor establecido",
+    "status_order": 3,
+    "status_concat": "3- Valor establecido",
+    "checklist": "Valor de la oportunidad cuantificado",
+    "checklist_order": 1,
+    "checklist_concat": "1- Valor de la oportunidad cuantificado"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Valor establecido",
+    "status_order": 3,
+    "status_concat": "3- Valor establecido",
+    "checklist": "Impacto de la solución entendido",
+    "checklist_order": 2,
+    "checklist_concat": "2- Impacto de la solución entendido"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Valor establecido",
+    "status_order": 3,
+    "status_concat": "3- Valor establecido",
+    "checklist": "Valor del sistema entendido",
+    "checklist_order": 3,
+    "checklist_concat": "3- Valor del sistema entendido"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Valor establecido",
+    "status_order": 3,
+    "status_concat": "3- Valor establecido",
+    "checklist": "Criterios de éxito claros",
+    "checklist_order": 4,
+    "checklist_concat": "4- Criterios de éxito claros"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Valor establecido",
+    "status_order": 3,
+    "status_concat": "3- Valor establecido",
+    "checklist": "Resultados claros y cuantificados",
+    "checklist_order": 5,
+    "checklist_concat": "5- Resultados claros y cuantificados"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Viable",
+    "status_order": 4,
+    "status_concat": "4- Viable",
+    "checklist": "Solución delineada",
+    "checklist_order": 1,
+    "checklist_concat": "1- Solución delineada"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Viable",
+    "status_order": 4,
+    "status_concat": "4- Viable",
+    "checklist": "Solución posible dentro de restricciones",
+    "checklist_order": 2,
+    "checklist_concat": "2- Solución posible dentro de restricciones"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Viable",
+    "status_order": 4,
+    "status_concat": "4- Viable",
+    "checklist": "Riesgos aceptables y manejables",
+    "checklist_order": 3,
+    "checklist_concat": "3- Riesgos aceptables y manejables"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Viable",
+    "status_order": 4,
+    "status_concat": "4- Viable",
+    "checklist": "Solución rentable",
+    "checklist_order": 4,
+    "checklist_concat": "4- Solución rentable"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Viable",
+    "status_order": 4,
+    "status_concat": "4- Viable",
+    "checklist": "Razones para desarrollar la solución entendidas",
+    "checklist_order": 5,
+    "checklist_concat": "5- Razones para desarrollar la solución entendidas"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Abordada",
+    "status_order": 5,
+    "status_concat": "5- Abordada",
+    "checklist": "Oportunidad atendida",
+    "checklist_order": 1,
+    "checklist_concat": "1- Oportunidad atendida"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Abordada",
+    "status_order": 5,
+    "status_concat": "5- Abordada",
+    "checklist": "Solución digna de despliegue",
+    "checklist_order": 2,
+    "checklist_concat": "2- Solución digna de despliegue"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Abordada",
+    "status_order": 5,
+    "status_concat": "5- Abordada",
+    "checklist": "Stakeholders satisfechos",
+    "checklist_order": 3,
+    "checklist_concat": "3- Stakeholders satisfechos"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Beneficio asegurado",
+    "status_order": 6,
+    "status_concat": "6- Beneficio asegurado",
+    "checklist": "Solución genera beneficios",
+    "checklist_order": 1,
+    "checklist_concat": "1- Solución genera beneficios"
+  },
+  {
+    "alfa": "Oportunidad",
+    "status": "Beneficio asegurado",
+    "status_order": 6,
+    "status_concat": "6- Beneficio asegurado",
+    "checklist": "ROI aceptable",
+    "checklist_order": 2,
+    "checklist_concat": "2- ROI aceptable"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "Reconocidos",
+    "status_order": 1,
+    "status_concat": "1- Reconocidos",
+    "checklist": "Grupos de stakeholders identificados",
+    "checklist_order": 1,
+    "checklist_concat": "1- Grupos de stakeholders identificados"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "Reconocidos",
+    "status_order": 1,
+    "status_concat": "1- Reconocidos",
+    "checklist": "Grupos clave de stakeholders representados",
+    "checklist_order": 2,
+    "checklist_concat": "2- Grupos clave de stakeholders representados"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "Reconocidos",
+    "status_order": 1,
+    "status_concat": "1- Reconocidos",
+    "checklist": "Responsabilidades definidas",
+    "checklist_order": 3,
+    "checklist_concat": "3- Responsabilidades definidas"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "Representados",
+    "status_order": 2,
+    "status_concat": "2- Representados",
+    "checklist": "Responsabilidades acordadas",
+    "checklist_order": 1,
+    "checklist_concat": "1- Responsabilidades acordadas"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "Representados",
+    "status_order": 2,
+    "status_concat": "2- Representados",
+    "checklist": "Representantes autorizados",
+    "checklist_order": 2,
+    "checklist_concat": "2- Representantes autorizados"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "Representados",
+    "status_order": 2,
+    "status_concat": "2- Representados",
+    "checklist": "Enfoque de colaboración acordado",
+    "checklist_order": 3,
+    "checklist_concat": "3- Enfoque de colaboración acordado"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "Representados",
+    "status_order": 2,
+    "status_concat": "2- Representados",
+    "checklist": "Forma de trabajo apoyada y respetada",
+    "checklist_order": 4,
+    "checklist_concat": "4- Forma de trabajo apoyada y respetada"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "Involucrados",
+    "status_order": 3,
+    "status_concat": "3- Involucrados",
+    "checklist": "Representantes asisten al equipo",
+    "checklist_order": 1,
+    "checklist_concat": "1- Representantes asisten al equipo"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "Involucrados",
+    "status_order": 3,
+    "status_concat": "3- Involucrados",
+    "checklist": "Retroalimentación y decisiones oportunas",
+    "checklist_order": 2,
+    "checklist_concat": "2- Retroalimentación y decisiones oportunas"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "Involucrados",
+    "status_order": 3,
+    "status_concat": "3- Involucrados",
+    "checklist": "Cambios comunicados con prontitud",
+    "checklist_order": 3,
+    "checklist_concat": "3- Cambios comunicados con prontitud"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "En acuerdo",
+    "status_order": 4,
+    "status_concat": "4- En acuerdo",
+    "checklist": "Expectativas mínimas acordadas",
+    "checklist_order": 1,
+    "checklist_concat": "1- Expectativas mínimas acordadas"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "En acuerdo",
+    "status_order": 4,
+    "status_concat": "4- En acuerdo",
+    "checklist": "Representantes satisfechos con su participación",
+    "checklist_order": 2,
+    "checklist_concat": "2- Representantes satisfechos con su participación"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "En acuerdo",
+    "status_order": 4,
+    "status_concat": "4- En acuerdo",
+    "checklist": "Aporte de los representantes valorado",
+    "checklist_order": 3,
+    "checklist_concat": "3- Aporte de los representantes valorado"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "En acuerdo",
+    "status_order": 4,
+    "status_concat": "4- En acuerdo",
+    "checklist": "Aporte del equipo valorado y respetado",
+    "checklist_order": 4,
+    "checklist_concat": "4- Aporte del equipo valorado y respetado"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "En acuerdo",
+    "status_order": 4,
+    "status_concat": "4- En acuerdo",
+    "checklist": "Prioridades claras y perspectivas equilibradas",
+    "checklist_order": 5,
+    "checklist_concat": "5- Prioridades claras y perspectivas equilibradas"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "Satisfechos para despliegue",
+    "status_order": 5,
+    "status_concat": "5- Satisfechos para despliegue",
+    "checklist": "Retroalimentación de stakeholders proporcionada",
+    "checklist_order": 1,
+    "checklist_concat": "1- Retroalimentación de stakeholders proporcionada"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "Satisfechos para despliegue",
+    "status_order": 5,
+    "status_concat": "5- Satisfechos para despliegue",
+    "checklist": "Sistema listo para despliegue",
+    "checklist_order": 2,
+    "checklist_concat": "2- Sistema listo para despliegue"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "Satisfecho en uso",
+    "status_order": 6,
+    "status_concat": "6- Satisfecho en uso",
+    "checklist": "Retroalimentación sobre uso disponible",
+    "checklist_order": 1,
+    "checklist_concat": "1- Retroalimentación sobre uso disponible"
+  },
+  {
+    "alfa": "Stakeholders",
+    "status": "Satisfecho en uso",
+    "status_order": 6,
+    "status_concat": "6- Satisfecho en uso",
+    "checklist": "Sistema cumple expectativas",
+    "checklist_order": 2,
+    "checklist_concat": "2- Sistema cumple expectativas"
+  }
+]

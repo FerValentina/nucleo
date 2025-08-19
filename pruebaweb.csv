@@ -1,0 +1,204 @@
+﻿alfa;status;status_order;status_concat;checklist;checklist_order;checklist_concat
+Way of Work;Principios establecidos;1;1- Principios establecidos;El equipo apoya activamente los principios;1;1- El equipo apoya activamente los principios
+Way of Work;Principios establecidos;1;1- Principios establecidos;Los interesados están de acuerdo con los principios;2;2- Los interesados están de acuerdo con los principios
+Way of Work;Principios establecidos;1;1- Principios establecidos;Necesidades de herramientas acordadas;3;3- Necesidades de herramientas acordadas
+Way of Work;Principios establecidos;1;1- Principios establecidos;Enfoque recomendado;4;4- Enfoque recomendado
+Way of Work;Principios establecidos;1;1- Principios establecidos;Contexto operativo comprendido;5;5- Contexto operativo comprendido
+Way of Work;Principios establecidos;1;1- Principios establecidos;Restricciones de prácticas y herramientas conocidas;6;6- Restricciones de prácticas y herramientas conocidas
+Way of Work;Fundamentos establecidos;2;2- Fundamentos establecidos;Prácticas y herramientas clave seleccionadas;1;1- Prácticas y herramientas clave seleccionadas
+Way of Work;Fundamentos establecidos;2;2- Fundamentos establecidos;Prácticas necesarias para iniciar el trabajo acordadas;2;2- Prácticas necesarias para iniciar el trabajo acordadas
+Way of Work;Fundamentos establecidos;2;2- Fundamentos establecidos;Prácticas y herramientas no negociables identificadas;3;3- Prácticas y herramientas no negociables identificadas
+Way of Work;Fundamentos establecidos;2;2- Fundamentos establecidos;Brechas entre forma de trabajar disponible y necesaria comprendidas;4;4- Brechas entre forma de trabajar disponible y necesaria comprendidas
+Way of Work;Fundamentos establecidos;2;2- Fundamentos establecidos;Brechas de capacidad comprendidas;5;5- Brechas de capacidad comprendidas
+Way of Work;Fundamentos establecidos;2;2- Fundamentos establecidos;Forma de trabajar integrada disponible;6;6- Forma de trabajar integrada disponible
+Way of Work;En Uso;3;3- En Uso;Prácticas y herramientas en uso;1;1- Prácticas y herramientas en uso
+Way of Work;En Uso;3;3- En Uso;Inspeccionadas regularmente;2;2- Inspeccionadas regularmente
+Way of Work;En Uso;3;3- En Uso;Adaptadas al contexto;3;3- Adaptadas al contexto
+Way of Work;En Uso;3;3- En Uso;Apoyadas por el equipo;4;4- Apoyadas por el equipo
+Way of Work;En Uso;3;3- En Uso;Mecanismos de retroalimentación implementados;5;5- Mecanismos de retroalimentación implementados
+Way of Work;En Uso;3;3- En Uso;Prácticas y herramientas apoyan la colaboración;6;6- Prácticas y herramientas apoyan la colaboración
+Way of Work;Implementado;4;4- Implementado;Usadas por todo el equipo;1;1- Usadas por todo el equipo
+Way of Work;Implementado;4;4- Implementado;Accesibles para todo el equipo;2;2- Accesibles para todo el equipo
+Way of Work;Implementado;4;4- Implementado;Inspeccionadas y adaptadas por todo el equipo;3;3- Inspeccionadas y adaptadas por todo el equipo
+Way of Work;Funcionando bien;5;5- Funcionando bien;Se logra un progreso predecible;1;1- Se logra un progreso predecible
+Way of Work;Funcionando bien;5;5- Funcionando bien;Prácticas aplicadas de forma natural;2;2- Prácticas aplicadas de forma natural
+Way of Work;Funcionando bien;5;5- Funcionando bien;Herramientas apoyan naturalmente la forma de trabajar;3;3- Herramientas apoyan naturalmente la forma de trabajar
+Way of Work;Funcionando bien;5;5- Funcionando bien;Ajustadas continuamente;4;4- Ajustadas continuamente
+Way of Work;Retirado;6;6- Retirado;Ya no está en uso;1;1- Ya no está en uso
+Way of Work;Retirado;6;6- Retirado;Lecciones aprendidas compartidas;2;2- Lecciones aprendidas compartidas
+Equipo;Sembrado;1;1- Sembrado;Misión definida;1;1- Misión definida
+Equipo;Sembrado;1;1- Sembrado;Restricciones conocidas y definidas;2;2- Restricciones conocidas y definidas
+Equipo;Sembrado;1;1- Sembrado;Mecanismos de crecimiento en marcha;3;3- Mecanismos de crecimiento en marcha
+Equipo;Sembrado;1;1- Sembrado;Composición definida;4;4- Composición definida
+Equipo;Sembrado;1;1- Sembrado;Responsabilidades delineadas;5;5- Responsabilidades delineadas
+Equipo;Sembrado;1;1- Sembrado;Nivel de compromiso claro;6;6- Nivel de compromiso claro
+Equipo;Sembrado;1;1- Sembrado;Competencias requeridas identificadas;7;7- Competencias requeridas identificadas
+Equipo;Sembrado;1;1- Sembrado;Tamaño determinado;8;8- Tamaño determinado
+Equipo;Sembrado;1;1- Sembrado;Reglas de gobernanza definidas;9;9- Reglas de gobernanza definidas
+Equipo;Sembrado;1;1- Sembrado;Modelo de liderazgo seleccionado;10;10- Modelo de liderazgo seleccionado
+Equipo;Formado;2;2- Formado;Suficientes miembros reclutados;1;1- Suficientes miembros reclutados
+Equipo;Formado;2;2- Formado;Roles comprendidos;2;2- Roles comprendidos
+Equipo;Formado;2;2- Formado;Cómo trabajar comprendido;3;3- Cómo trabajar comprendido
+Equipo;Formado;2;2- Formado;Miembros presentados;4;4- Miembros presentados
+Equipo;Formado;2;2- Formado;Responsabilidades individuales comprendidas y alineadas a competencias;5;5- Responsabilidades individuales comprendidas y alineadas a competencias
+Equipo;Formado;2;2- Formado;Miembros aceptan trabajo;6;6- Miembros aceptan trabajo
+Equipo;Formado;2;2- Formado;Colaboradores externos identificados;7;7- Colaboradores externos identificados
+Equipo;Formado;2;2- Formado;Mecanismos de comunicación definidos;8;8- Mecanismos de comunicación definidos
+Equipo;Formado;2;2- Formado;Miembros comprometidos con el equipo;9;9- Miembros comprometidos con el equipo
+Equipo;Colaborando;3;3- Colaborando;Trabaja como una unidad;1;1- Trabaja como una unidad
+Equipo;Colaborando;3;3- Colaborando;Comunicación abierta y honesta;2;2- Comunicación abierta y honesta
+Equipo;Colaborando;3;3- Colaborando;Enfocado en la misión;3;3- Enfocado en la misión
+Equipo;Colaborando;3;3- Colaborando;Los miembros se conocen;4;4- Los miembros se conocen
+Equipo;Desempeñando;4;4- Desempeñando;Cumple compromisos consistentemente;1;1- Cumple compromisos consistentemente
+Equipo;Desempeñando;4;4- Desempeñando;Se adapta continuamente al cambio;2;2- Se adapta continuamente al cambio
+Equipo;Desempeñando;4;4- Desempeñando;Resuelve problemas;3;3- Resuelve problemas
+Equipo;Desempeñando;4;4- Desempeñando;Minimiza retrabajo y retrocesos;4;4- Minimiza retrabajo y retrocesos
+Equipo;Desempeñando;4;4- Desempeñando;Elimina desperdicio continuamente;5;5- Elimina desperdicio continuamente
+Equipo;Disuelto;5;5- Disuelto;Responsabilidades cumplidas;1;1- Responsabilidades cumplidas
+Equipo;Disuelto;5;5- Disuelto;Miembros disponibles para otros equipos;2;2- Miembros disponibles para otros equipos
+Equipo;Disuelto;5;5- Disuelto;Misión concluida;3;3- Misión concluida
+Trabajo;Iniciado;1;1- Iniciado;Resultado requerido claro;1;1- Resultado requerido claro
+Trabajo;Iniciado;1;1- Iniciado;Restricciones claras;2;2- Restricciones claras
+Trabajo;Iniciado;1;1- Iniciado;Stakeholders financieros conocidos;3;3- Stakeholders financieros conocidos
+Trabajo;Iniciado;1;1- Iniciado;Iniciador identificado;4;4- Iniciador identificado
+Trabajo;Iniciado;1;1- Iniciado;Stakeholders receptores conocidos;5;5- Stakeholders receptores conocidos
+Trabajo;Iniciado;1;1- Iniciado;Fuente de financiamiento clara;6;6- Fuente de financiamiento clara
+Trabajo;Iniciado;1;1- Iniciado;Prioridad clara;7;7- Prioridad clara
+Trabajo;Preparado;2;2- Preparado;Compromiso realizado;1;1- Compromiso realizado
+Trabajo;Preparado;2;2- Preparado;Costo y esfuerzo estimados;2;2- Costo y esfuerzo estimados
+Trabajo;Preparado;2;2- Preparado;Disponibilidad de recursos comprendida;3;3- Disponibilidad de recursos comprendida
+Trabajo;Preparado;2;2- Preparado;Riesgo comprendido;4;4- Riesgo comprendido
+Trabajo;Preparado;2;2- Preparado;Criterios de aceptación establecidos;5;5- Criterios de aceptación establecidos
+Trabajo;Preparado;2;2- Preparado;Trabajo desglosado para iniciar;6;6- Trabajo desglosado para iniciar
+Trabajo;Preparado;2;2- Preparado;Tareas identificadas y priorizadas;7;7- Tareas identificadas y priorizadas
+Trabajo;Preparado;2;2- Preparado;Plan creíble establecido;8;8- Plan creíble establecido
+Trabajo;Preparado;2;2- Preparado;Financiamiento en marcha;9;9- Financiamiento en marcha
+Trabajo;Preparado;2;2- Preparado;Al menos un miembro listo;10;10- Al menos un miembro listo
+Trabajo;Preparado;2;2- Preparado;Puntos de integración definidos;11;11- Puntos de integración definidos
+Trabajo;Iniciado el desarrollo;3;3- Iniciado el desarrollo;Desarrollo iniciado;1;1- Desarrollo iniciado
+Trabajo;Iniciado el desarrollo;3;3- Iniciado el desarrollo;Progreso monitoreado;2;2- Progreso monitoreado
+Trabajo;Iniciado el desarrollo;3;3- Iniciado el desarrollo;"Definición de ""hecho"" establecida";3;"3- Definición de ""hecho"" establecida"
+Trabajo;Iniciado el desarrollo;3;3- Iniciado el desarrollo;Tareas en progreso;4;4- Tareas en progreso
+Trabajo;Bajo control;4;4- Bajo control;Tareas completadas;1;1- Tareas completadas
+Trabajo;Bajo control;4;4- Bajo control;Trabajo no planificado bajo control;2;2- Trabajo no planificado bajo control
+Trabajo;Bajo control;4;4- Bajo control;Riesgos bajo control;3;3- Riesgos bajo control
+Trabajo;Bajo control;4;4- Bajo control;Estimaciones revisadas;4;4- Estimaciones revisadas
+Trabajo;Bajo control;4;4- Bajo control;Progreso medido;5;5- Progreso medido
+Trabajo;Bajo control;4;4- Bajo control;Retrabajo bajo control;6;6- Retrabajo bajo control
+Trabajo;Bajo control;4;4- Bajo control;Compromisos cumplidos;7;7- Compromisos cumplidos
+Trabajo;Concluido;5;5- Concluido;Solo tareas administrativas pendientes;1;1- Solo tareas administrativas pendientes
+Trabajo;Concluido;5;5- Concluido;Resultados logrados;2;2- Resultados logrados
+Trabajo;Concluido;5;5- Concluido;Resultado aceptado;3;3- Resultado aceptado
+Trabajo;Cerrado;6;6- Cerrado;Lecciones aprendidas;1;1- Lecciones aprendidas
+Trabajo;Cerrado;6;6- Cerrado;Métricas disponibles;2;2- Métricas disponibles
+Trabajo;Cerrado;6;6- Cerrado;Todo archivado;3;3- Todo archivado
+Trabajo;Cerrado;6;6- Cerrado;Presupuesto cerrado;4;4- Presupuesto cerrado
+Trabajo;Cerrado;6;6- Cerrado;Equipo liberado;5;5- Equipo liberado
+Trabajo;Cerrado;6;6- Cerrado;Sin tareas pendientes;6;6- Sin tareas pendientes
+Requerimientos;Concebido;1;1- Concebido;Stakeholders acuerdan producir sistema;1;1- Stakeholders acuerdan producir sistema
+Requerimientos;Concebido;1;1- Concebido;Usuarios identificados;2;2- Usuarios identificados
+Requerimientos;Concebido;1;1- Concebido;Stakeholders financiadores identificados;3;3- Stakeholders financiadores identificados
+Requerimientos;Concebido;1;1- Concebido;Oportunidad clara;4;4- Oportunidad clara
+Requerimientos;Delimitado;2;2- Delimitado;Stakeholders de desarrollo identificados;1;1- Stakeholders de desarrollo identificados
+Requerimientos;Delimitado;2;2- Delimitado;Propósito del sistema acordado;2;2- Propósito del sistema acordado
+Requerimientos;Delimitado;2;2- Delimitado;Éxito del sistema claro;3;3- Éxito del sistema claro
+Requerimientos;Delimitado;2;2- Delimitado;Entendimiento compartido de la solución;4;4- Entendimiento compartido de la solución
+Requerimientos;Delimitado;2;2- Delimitado;Formato de requerimientos acordado;5;5- Formato de requerimientos acordado
+Requerimientos;Delimitado;2;2- Delimitado;Gestión de requerimientos en marcha;6;6- Gestión de requerimientos en marcha
+Requerimientos;Delimitado;2;2- Delimitado;Esquema de priorización claro;7;7- Esquema de priorización claro
+Requerimientos;Delimitado;2;2- Delimitado;Restricciones identificadas y consideradas;8;8- Restricciones identificadas y consideradas
+Requerimientos;Delimitado;2;2- Delimitado;Suposiciones claras;9;9- Suposiciones claras
+Requerimientos;Coherente;3;3- Coherente;Requerimientos compartidos;1;1- Requerimientos compartidos
+Requerimientos;Coherente;3;3- Coherente;Origen de requerimientos claro;2;2- Origen de requerimientos claro
+Requerimientos;Coherente;3;3- Coherente;Justificación clara;3;3- Justificación clara
+Requerimientos;Coherente;3;3- Coherente;Conflictos resueltos;4;4- Conflictos resueltos
+Requerimientos;Coherente;3;3- Coherente;Características esenciales claras;5;5- Características esenciales claras
+Requerimientos;Coherente;3;3- Coherente;Escenarios clave de uso explicados;6;6- Escenarios clave de uso explicados
+Requerimientos;Coherente;3;3- Coherente;Prioridades claras;7;7- Prioridades claras
+Requerimientos;Coherente;3;3- Coherente;Impacto comprendido;8;8- Impacto comprendido
+Requerimientos;Coherente;3;3- Coherente;Equipo entiende y acuerda qué entregar;9;9- Equipo entiende y acuerda qué entregar
+Requerimientos;Aceptable;4;4- Aceptable;Solución aceptable descrita;1;1- Solución aceptable descrita
+Requerimientos;Aceptable;4;4- Aceptable;Cambio bajo control;2;2- Cambio bajo control
+Requerimientos;Aceptable;4;4- Aceptable;Valor a lograr claro;3;3- Valor a lograr claro
+Requerimientos;Aceptable;4;4- Aceptable;Oportunidad abordada claramente;4;4- Oportunidad abordada claramente
+Requerimientos;Aceptable;4;4- Aceptable;Comprobable;5;5- Comprobable
+Requerimientos;Atendido;5;5- Atendido;Suficiente para ser aceptable;1;1- Suficiente para ser aceptable
+Requerimientos;Atendido;5;5- Atendido;Requerimientos y sistema coinciden;2;2- Requerimientos y sistema coinciden
+Requerimientos;Atendido;5;5- Atendido;Valor realizado claro;3;3- Valor realizado claro
+Requerimientos;Atendido;5;5- Atendido;Sistema vale la pena operarlo;4;4- Sistema vale la pena operarlo
+Requerimientos;Cumplido;6;6- Cumplido;Stakeholders aceptan requerimientos;1;1- Stakeholders aceptan requerimientos
+Requerimientos;Cumplido;6;6- Cumplido;Sin elementos que impidan;2;2- Sin elementos que impidan
+Requerimientos;Cumplido;6;6- Cumplido;Requerimientos completamente satisfechos;3;3- Requerimientos completamente satisfechos
+Producto de Software;Arquitectura seleccionada;1;1- Arquitectura seleccionada;Criterios de selección de arquitectura acordados;1;1- Criterios de selección de arquitectura acordados
+Producto de Software;Arquitectura seleccionada;1;1- Arquitectura seleccionada;Plataformas HW identificadas;2;2- Plataformas HW identificadas
+Producto de Software;Arquitectura seleccionada;1;1- Arquitectura seleccionada;Tecnologías seleccionadas;3;3- Tecnologías seleccionadas
+Producto de Software;Arquitectura seleccionada;1;1- Arquitectura seleccionada;Límite del sistema definido;4;4- Límite del sistema definido
+Producto de Software;Arquitectura seleccionada;1;1- Arquitectura seleccionada;Decisiones de organización del sistema tomadas;5;5- Decisiones de organización del sistema tomadas
+Producto de Software;Arquitectura seleccionada;1;1- Arquitectura seleccionada;Decisiones de compra, construcción o reutilización tomadas;6;6- Decisiones de compra, construcción o reutilización tomadas
+Producto de Software;Arquitectura seleccionada;1;1- Arquitectura seleccionada;Riesgos técnicos clave acordados;7;7- Riesgos técnicos clave acordados
+Producto de Software;Demostrable;2;2- Demostrable;Características arquitectónicas clave demostradas;1;1- Características arquitectónicas clave demostradas
+Producto de Software;Demostrable;2;2- Demostrable;Sistema probado y rendimiento medido;2;2- Sistema probado y rendimiento medido
+Producto de Software;Demostrable;2;2- Demostrable;Configuraciones críticas de HW demostradas;3;3- Configuraciones críticas de HW demostradas
+Producto de Software;Demostrable;2;2- Demostrable;Interfaces críticas demostradas;4;4- Interfaces críticas demostradas
+Producto de Software;Demostrable;2;2- Demostrable;Integración con entorno demostrada;5;5- Integración con entorno demostrada
+Producto de Software;Demostrable;2;2- Demostrable;Arquitectura aceptada como adecuada;6;6- Arquitectura aceptada como adecuada
+Producto de Software;Usable;3;3- Usable;Sistema puede ser operado;1;1- Sistema puede ser operado
+Producto de Software;Usable;3;3- Usable;Funcionalidad probada;2;2- Funcionalidad probada
+Producto de Software;Usable;3;3- Usable;Rendimiento aceptable;3;3- Rendimiento aceptable
+Producto de Software;Usable;3;3- Usable;Nivel de defectos aceptable;4;4- Nivel de defectos aceptable
+Producto de Software;Usable;3;3- Usable;Sistema completamente documentado;5;5- Sistema completamente documentado
+Producto de Software;Usable;3;3- Usable;Contenido de la versión conocido;6;6- Contenido de la versión conocido
+Producto de Software;Usable;3;3- Usable;Valor añadido claro;7;7- Valor añadido claro
+Producto de Software;Listo;4;4- Listo;Documentación de usuario disponible;1;1- Documentación de usuario disponible
+Producto de Software;Listo;4;4- Listo;Sistema aceptado como adecuado;2;2- Sistema aceptado como adecuado
+Producto de Software;Listo;4;4- Listo;Stakeholders quieren el sistema;3;3- Stakeholders quieren el sistema
+Producto de Software;Listo;4;4- Listo;Soporte operacional implementado;4;4- Soporte operacional implementado
+Producto de Software;Operativo;5;5- Operativo;Sistema disponible para uso;1;1- Sistema disponible para uso
+Producto de Software;Operativo;5;5- Operativo;Sistema en vivo;2;2- Sistema en vivo
+Producto de Software;Operativo;5;5- Operativo;SLA soportados;3;3- SLA soportados
+Producto de Software;Retirado;6;6- Retirado;Reemplazado o discontinuado;1;1- Reemplazado o discontinuado
+Producto de Software;Retirado;6;6- Retirado;No soportado;2;2- No soportado
+Producto de Software;Retirado;6;6- Retirado;Sin usuarios autorizados;3;3- Sin usuarios autorizados
+Producto de Software;Retirado;6;6- Retirado;Actualizaciones detenidas;4;4- Actualizaciones detenidas
+Oportunidad;Identificada;1;1- Identificada;Idea de la oportunidad identificada;1;1- Idea de la oportunidad identificada
+Oportunidad;Identificada;1;1- Identificada;Al menos un stakeholder inversor interesado;2;2- Al menos un stakeholder inversor interesado
+Oportunidad;Identificada;1;1- Identificada;Otros stakeholders identificados;3;3- Otros stakeholders identificados
+Oportunidad;Necesidad de solución;2;2- Necesidad de solución;Solución identificada;1;1- Solución identificada
+Oportunidad;Necesidad de solución;2;2- Necesidad de solución;Necesidades de stakeholders establecidas;2;2- Necesidades de stakeholders establecidas
+Oportunidad;Necesidad de solución;2;2- Necesidad de solución;Problemas y causas raíz identificadas;3;3- Problemas y causas raíz identificadas
+Oportunidad;Necesidad de solución;2;2- Necesidad de solución;Necesidad de una solución confirmada;4;4- Necesidad de una solución confirmada
+Oportunidad;Necesidad de solución;2;2- Necesidad de solución;Al menos una solución propuesta;5;5- Al menos una solución propuesta
+Oportunidad;Valor establecido;3;3- Valor establecido;Valor de la oportunidad cuantificado;1;1- Valor de la oportunidad cuantificado
+Oportunidad;Valor establecido;3;3- Valor establecido;Impacto de la solución entendido;2;2- Impacto de la solución entendido
+Oportunidad;Valor establecido;3;3- Valor establecido;Valor del sistema entendido;3;3- Valor del sistema entendido
+Oportunidad;Valor establecido;3;3- Valor establecido;Criterios de éxito claros;4;4- Criterios de éxito claros
+Oportunidad;Valor establecido;3;3- Valor establecido;Resultados claros y cuantificados;5;5- Resultados claros y cuantificados
+Oportunidad;Viable;4;4- Viable;Solución delineada;1;1- Solución delineada
+Oportunidad;Viable;4;4- Viable;Solución posible dentro de restricciones;2;2- Solución posible dentro de restricciones
+Oportunidad;Viable;4;4- Viable;Riesgos aceptables y manejables;3;3- Riesgos aceptables y manejables
+Oportunidad;Viable;4;4- Viable;Solución rentable;4;4- Solución rentable
+Oportunidad;Viable;4;4- Viable;Razones para desarrollar la solución entendidas;5;5- Razones para desarrollar la solución entendidas
+Oportunidad;Abordada;5;5- Abordada;Oportunidad atendida;1;1- Oportunidad atendida
+Oportunidad;Abordada;5;5- Abordada;Solución digna de despliegue;2;2- Solución digna de despliegue
+Oportunidad;Abordada;5;5- Abordada;Stakeholders satisfechos;3;3- Stakeholders satisfechos
+Oportunidad;Beneficio asegurado;6;6- Beneficio asegurado;Solución genera beneficios;1;1- Solución genera beneficios
+Oportunidad;Beneficio asegurado;6;6- Beneficio asegurado;ROI aceptable;2;2- ROI aceptable
+Stakeholders;Reconocidos;1;1- Reconocidos;Grupos de stakeholders identificados;1;1- Grupos de stakeholders identificados
+Stakeholders;Reconocidos;1;1- Reconocidos;Grupos clave de stakeholders representados;2;2- Grupos clave de stakeholders representados
+Stakeholders;Reconocidos;1;1- Reconocidos;Responsabilidades definidas;3;3- Responsabilidades definidas
+Stakeholders;Representados;2;2- Representados;Responsabilidades acordadas;1;1- Responsabilidades acordadas
+Stakeholders;Representados;2;2- Representados;Representantes autorizados;2;2- Representantes autorizados
+Stakeholders;Representados;2;2- Representados;Enfoque de colaboración acordado;3;3- Enfoque de colaboración acordado
+Stakeholders;Representados;2;2- Representados;Forma de trabajo apoyada y respetada;4;4- Forma de trabajo apoyada y respetada
+Stakeholders;Involucrados;3;3- Involucrados;Representantes asisten al equipo;1;1- Representantes asisten al equipo
+Stakeholders;Involucrados;3;3- Involucrados;Retroalimentación y decisiones oportunas;2;2- Retroalimentación y decisiones oportunas
+Stakeholders;Involucrados;3;3- Involucrados;Cambios comunicados con prontitud;3;3- Cambios comunicados con prontitud
+Stakeholders;En acuerdo;4;4- En acuerdo;Expectativas mínimas acordadas;1;1- Expectativas mínimas acordadas
+Stakeholders;En acuerdo;4;4- En acuerdo;Representantes satisfechos con su participación;2;2- Representantes satisfechos con su participación
+Stakeholders;En acuerdo;4;4- En acuerdo;Aporte de los representantes valorado;3;3- Aporte de los representantes valorado
+Stakeholders;En acuerdo;4;4- En acuerdo;Aporte del equipo valorado y respetado;4;4- Aporte del equipo valorado y respetado
+Stakeholders;En acuerdo;4;4- En acuerdo;Prioridades claras y perspectivas equilibradas;5;5- Prioridades claras y perspectivas equilibradas
+Stakeholders;Satisfechos para despliegue;5;5- Satisfechos para despliegue;Retroalimentación de stakeholders proporcionada;1;1- Retroalimentación de stakeholders proporcionada
+Stakeholders;Satisfechos para despliegue;5;5- Satisfechos para despliegue;Sistema listo para despliegue;2;2- Sistema listo para despliegue
+Stakeholders;Satisfecho en uso;6;6- Satisfecho en uso;Retroalimentación sobre uso disponible;1;1- Retroalimentación sobre uso disponible
+Stakeholders;Satisfecho en uso;6;6- Satisfecho en uso;Sistema cumple expectativas;2;2- Sistema cumple expectativas
