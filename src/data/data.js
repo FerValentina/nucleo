@@ -1,6 +1,6 @@
 export async function fetchData() {
   try {
-    const response = await fetch('/proyect/sematData.json', { headers: { 'Content-Type': 'application/json; charset=utf-8' } });
+    const response = await fetch('/nucleo/sematData.json', { headers: { 'Content-Type': 'application/json; charset=utf-8' } });
     const rawData = await response.json();
 
     const alphas = {};
